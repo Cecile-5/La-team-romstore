@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Conditions Générales de Vente</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #0073e6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Conditions Générales de Vente (CGV)</h1>
+
+    <p><strong>Dernière mise à jour :</strong> 02/10/2025</p>
+
+    <h2>1. Objet</h2>
+    <p>Les présentes conditions générales de vente (CGV) définissent les droits et obligations des parties dans le cadre de la vente de services ou de produits proposés par [Votre société / Votre nom].</p>
+
+    <h2>2. Produits et services</h2>
+    <p>Les caractéristiques essentielles des produits et services sont présentées sur le site. Le client est tenu d’en prendre connaissance avant toute commande.</p>
+
+    <h2>3. Prix</h2>
+    <p>Les prix sont indiqués en euros toutes taxes comprises (TTC). [Votre société] se réserve le droit de modifier ses tarifs à tout moment.</p>
+
+    <h2>4. Commandes</h2>
+    <p>La commande est considérée comme ferme après validation du paiement par le client. Une confirmation est envoyée par email.</p>
+
+    <h2>5. Paiement</h2>
+    <p>Le règlement s’effectue par [indiquer vos moyens de paiement : virement, carte bancaire, PayPal…].</p>
+
+    <h2>6. Livraison</h2>
+    <p>Les délais de livraison sont donnés à titre indicatif. Aucune indemnité ne pourra être réclamée en cas de retard raisonnable.</p>
+
+    <h2>7. Droit de rétractation</h2>
+    <p>Conformément à la législation en vigueur, le client dispose d’un délai de 14 jours pour exercer son droit de rétractation, sauf exceptions légales.</p>
+
+    <h2>8. Responsabilité</h2>
+    <p>[Votre société] ne pourra être tenue responsable des dommages indirects liés à l’utilisation des produits ou services vendus.</p>
+
+    <h2>9. Données personnelles</h2>
+    <p>Les informations collectées sont nécessaires au traitement des commandes et sont traitées conformément à la réglementation en vigueur.</p>
+
+    <h2>10. Loi applicable</h2>
+    <p>Les présentes CGV sont soumises au droit français. En cas de litige, les tribunaux compétents seront ceux du ressort du siège social de [Votre société].</p>
+  </div>
+</body>
+</html>
